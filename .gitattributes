@@ -1,0 +1,9 @@
+.md linguist-language=C#
+*.cs.meta linguist-language=C#
+*.cs linguist-language=C#
+*.cginc linguist-language=C#
+
+*.shader linguist-language=Java
+*.hlsl linguist-language=Java
+*.uxml linguist-language=Java
+*.yaml linguist-language=Java
